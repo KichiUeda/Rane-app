@@ -27,7 +27,7 @@
   "homepage": "https://github.com/KichiUeda/Rane-app-description-service#readme",
   "dependencies": {
     "@babel/plugin-transform-react-jsx": "^7.10.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "axios-test-instance": "^3.1.1",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
